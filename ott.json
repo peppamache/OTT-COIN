@@ -1,0 +1,16 @@
+{
+"name": "OA Test Token",
+"symbol": "OTT",
+"description": "OA Test Token for devnet testing.",
+"image": "https://i.postimg.cc/zDhjYVB5/ott.png",
+"external_url": "https://github.com/peppamache/OTT-COIN",
+"properties": {
+"files": [
+{
+"uri": "https://i.postimg.cc/zDhjYVB5/ott.png",
+"type": "image/png"
+}
+],
+"category": "image"
+}
+}
